@@ -38,7 +38,7 @@ void loop(){
       playTone(0, 0);
       delay(300);    
       if (pirState == HIGH){
-      // we have just turned of
+      // we have just turned off
       Serial.println("Motion ended!");
       // We only want to print on the output change, not state
       pirState = LOW;
