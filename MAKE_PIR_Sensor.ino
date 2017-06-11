@@ -1,6 +1,6 @@
 // Uses a PIR sensor to detect movement, buzzes a buzzer
 // more info here: http://blog.makezine.com/projects/pir-sensor-arduino-alarm/
-// email me, John Park, at jp@jpixl.net
+//
 // based upon:
 // PIR sensor tester by Limor Fried of Adafruit
 // tone code by michael@thegrebs.com
